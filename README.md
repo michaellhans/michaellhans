@@ -10,4 +10,4 @@ Hi, I'm Michael Hans, and I am graduated computer science student from ITB. Now 
 ## 🌱 Skills
 * **Language** : Python, C/C++, JavaScript/TypeScript, Java, HTML, CSS, PHP
 * **Database**	: MySQL, PostgreSQL, MongoDB, Firebase
-* **Technologies**	: Flask, ReactJS, NodeJS, Vue, Jest, Docker, Figma, Git, Google Cloud Platform (GCP), Herok
+* **Technologies**	: Flask, AngularJS, ReactJS, NodeJS, Vue, Jest, Docker, Figma, Git, Google Cloud Platform (GCP), Herok
